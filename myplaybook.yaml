@@ -6,3 +6,4 @@
     copy:
        src: /home/ansible/Dockerfile
        dest: /home/ansible
+       mode: 0644
